@@ -1,5 +1,5 @@
 # IndexPrediction
-Predicting financial index movement using trend indicators and machine learning
+### Predicting financial index movement using trend indicators and machine learning
 
 #### [Initial Data](http://heptadecane.xyz/static/IndexPrediction/Notebook01.html)
 #### [Data Preparation - Technical Indicators](http://heptadecane.xyz/static/IndexPrediction/Notebook02.html)
