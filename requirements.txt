@@ -1,0 +1,9 @@
+jupyterlab
+notebook
+nb-conda-kernels
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
